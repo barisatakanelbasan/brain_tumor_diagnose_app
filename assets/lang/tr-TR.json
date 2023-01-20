@@ -1,0 +1,13 @@
+{
+    "welcome": "Beyin tümörü teşhis etme uygulamasına hoş geldiniz!",
+    "title": "Bu uygulamada beyin tümörü, beyin tümörünün belirtileri ve beyin tümörü teşhis etme konularında bilgi sahibi olabilir ve derin öğrenme ile geliştirilen yazılım ile beyin tümör teşhisi yapabilirsiniz.",
+    "what_is_brain_tumor": "Beyin Tümörü Nedir?",
+    "tumor_info": "Kafatası bölgesinde kontrolsüzce büyüyen hücrelere beyin tümörü ismi verilir. Bu tümörler, beynin içinde oluşabildiği gibi, beynin çevresindeki dokulardan da kaynaklabilir ve kafatasının içine doğru büyüyebilirler.",
+    "what_are_symtomps": "Belirtileri Nelerdir?",
+    "symptomps": "Beyin tümörleri, kafatası içinde yerleşen tümörler oldukları için kafatası içinde basınç artışına bağlı olarak şiddetli baş ağrısı, bulantı ve kusma gibi yaygın belirtiler görülebiliyor.",
+    "how_to_use": "Nasıl Kullanılır?",
+    "how_to_use_info": "Uygulamada bulunan test sayfasında galeriden bir MRI ya da CT görüntüsü seçerek, görüntüyü yükleyebilirsiniz. Yüklediğiniz görüntüyü uygulamada bulunan test et butonuna basarak test edebilirsiniz. Test sonucunda beyin tümörü teşhisi konulabilir.",
+    "test": "Test Yap!",
+    "upload_photo": "Test yapmak için bir fotoğraf yükle!",
+    "chance_to_have_tumor": "Hastanın tümör olma ihtimali {}%"
+}

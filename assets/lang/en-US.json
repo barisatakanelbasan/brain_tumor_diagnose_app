@@ -1,0 +1,13 @@
+{
+    "welcome": "Welcome to the brain tumor diagnosis app!",
+    "title": "In this application, you can have information about brain tumor, brain tumor symptoms and brain tumor diagnosis, and you can diagnose brain tumors with software developed with deep learning.",
+    "what_is_brain_tumor": "What is a Brain Tumor?",
+    "tumor_info": "Cells that grow uncontrollably in the skull area are called brain tumors. These tumors can form inside the brain, or they can originate from the tissues around the brain and grow into the skull.",
+    "what_are_symtomps": "What are the symptoms?",
+    "symptomps": "Since brain tumors are tumors located in the skull, common symptoms such as severe headache, nausea and vomiting can be seen due to increased pressure in the skull.",
+    "how_to_use": "How to use?",
+    "how_to_use_info": "You can upload the image by selecting an MRI or CT image from the gallery on the test page in the application. You can test the uploaded image by pressing the test button in the application. As a result of the test, a diagnosis of brain tumor can be made.",
+    "test": "Take a Test!",
+    "upload_photo": "Upload a photo to test!",
+    "chance_to_have_tumor": "The probability of the patient having a tumor {}%"
+}
