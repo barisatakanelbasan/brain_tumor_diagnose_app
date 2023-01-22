@@ -16,8 +16,6 @@ deep learning model for my Graduation Project.
 - <a href="https://pub.dev/packages/change_app_package_name">Change App Package Name</a>
 
 ## 📸 Screenshots
-<img src="https://i.hizliresim.com/ks9i33g.png" height="400"/>
-<img src="https://i.hizliresim.com/81xtwdm.png" height="400"/>
-<img src="https://i.hizliresim.com/nlwhy1f.png" height="400"/>
-<img src="https://i.hizliresim.com/6kl11ta.png" height="400"/>
-<img src="https://i.hizliresim.com/c0t0o5i.png" height="400"/>
+| <img src="https://i.hizliresim.com/ks9i33g.png" height="400"/> | <img src="https://i.hizliresim.com/81xtwdm.png" height="400"/> | <img src="https://i.hizliresim.com/nlwhy1f.png" height="400"/> |
+
+| <img src="https://i.hizliresim.com/6kl11ta.png" height="400"/> | <img src="https://i.hizliresim.com/c0t0o5i.png" height="400"/> |
