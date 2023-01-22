@@ -1,6 +1,7 @@
 import 'package:brain_tumor_app/core/init/lang/language_manager.dart';
 import 'package:brain_tumor_app/product/generation/colors.gen.dart';
-import 'package:brain_tumor_app/view/home_view.dart';
+import 'package:brain_tumor_app/view/home/home_view.dart';
+import 'package:brain_tumor_app/view/splash/splash_screen.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -26,8 +27,6 @@ Future<void> _init() async {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -39,7 +38,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         scaffoldBackgroundColor: ColorName.white,
       ),
-      home: const HomeView(),
+      home: const SplashScreen(),
     );
   }
 }
